@@ -2,11 +2,11 @@
 
 $packageName    = 'onlyoffice'
 $fileType       = 'exe'
-$url            = 'https://github.com/ONLYOFFICE/DesktopEditors/releases/download/ONLYOFFICE-DesktopEditors-4.8.0/DesktopEditors_x86.exe'
-$url64          = 'https://github.com/ONLYOFFICE/DesktopEditors/releases/download/ONLYOFFICE-DesktopEditors-4.8.0/DesktopEditors_x64.exe'
+$url            = 'https://github.com/ONLYOFFICE/DesktopEditors/releases/download/ONLYOFFICE-DesktopEditors-5.2.8/DesktopEditors_x86.exe'
+$url64          = 'https://github.com/ONLYOFFICE/DesktopEditors/releases/download/ONLYOFFICE-DesktopEditors-5.2.8/DesktopEditors_x64.exe'
 $softwareName   = 'onlyoffice*'
-$checksum       = '38965120670677e44ad6d8eefbe841ba3a57e8acd185b58e57628ff597a92d0f'
-$checksum64     = '33a83a8589b3c3ef492ea78f93cf00495a535bfda84a64bb0a04d86d2bdb4756'
+$checksum       = 'dae02ddcb3343002a532f6986495296d9a938e4874379d91a26e17ad6b96a2f6'
+$checksum64     = '96c94468acd1cdaa7bc806ec7cc583e3804d55af5240d2c32951fa22a113816b'
 $checksumTypeAll= 'sha256'
 $silentArgs     = '/s /S /q /Q /quiet /silent /SILENT /VERYSILENT'
 
